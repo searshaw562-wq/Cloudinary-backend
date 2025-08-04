@@ -1,7 +1,7 @@
 {
   "name": "cloudinary-backend",
   "version": "1.0.0",
-  "description": "Backend for Cloudinary image display",
+  "description": "Express backend for Cloudinary image viewer",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
