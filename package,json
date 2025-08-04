@@ -1,0 +1,15 @@
+{
+  "name": "cloudinary-backend",
+  "version": "1.0.0",
+  "description": "Backend for Cloudinary image display",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cloudinary": "^1.41.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
